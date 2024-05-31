@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace TetrisAgain
+namespace Tetris
 {
     internal class LabelMessages
     {

@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace TetrisAgain
+namespace Tetris
 {
 
     public partial class Functional : Form

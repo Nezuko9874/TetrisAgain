@@ -1,4 +1,4 @@
-﻿namespace TetrisAgain
+﻿namespace Tetris
 {
     partial class Choice
     {

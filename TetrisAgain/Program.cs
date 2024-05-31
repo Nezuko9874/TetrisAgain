@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace TetrisAgain
+namespace Tetris
 {
     internal static class Program
     {

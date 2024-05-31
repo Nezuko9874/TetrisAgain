@@ -2,7 +2,7 @@
 using System.Drawing;
 
 
-namespace TetrisAgain
+namespace Tetris
 {
     class ShapeOfFigure
     {

@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 
 
-namespace TetrisAgain
+namespace Tetris
 {
     public class TetraminoColors
     {
