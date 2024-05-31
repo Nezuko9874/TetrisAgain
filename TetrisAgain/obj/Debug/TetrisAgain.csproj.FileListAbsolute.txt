@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\bin\Debug\TetrisAgain.exe.config
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\bin\Debug\TetrisAgain.exe
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\bin\Debug\TetrisAgain.pdb
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.Properties.Resources.resources
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.exe
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.pdb
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.Menu.resources
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.Choice.resources
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.GameOver.resources
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.Winner.resources
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.Rules.resources
+C:\Users\user\source\repos\TetrisAgain\TetrisAgain\obj\Debug\TetrisAgain.Functional.resources

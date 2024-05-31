@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TetrisAgain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|c:\\users\\user\\source\\repos\\tetrisagain\\tetrisagain\\tetraminocolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\tetraminocolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\tetramino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\tetramino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\shapeoffigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\shapeoffigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\rules.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\rules.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\labelmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\labelmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|C:\\Users\\user\\source\\repos\\TetrisAgain\\tetrisagain\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C2A218-836F-4902-AA82-78623B9D2343}|TetrisAgain\\TetrisAgain.csproj|solutionrelative:tetrisagain\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 286,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\GameOver.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\GameOver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TetrisAgain\\GameOver.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:35:50.948Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Menu.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Menu.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TetrisAgain\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:32.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Form1.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TetrisAgain\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:35:48.648Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Choice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Choice.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Choice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Choice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TetrisAgain\\Choice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:37:04.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Winner.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Winner.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Winner.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Winner.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TetrisAgain\\Winner.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:41:06.22Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rules.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Rules.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Rules.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Rules.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TetrisAgain\\Rules.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:38:11.477Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LabelMessages.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\LabelMessages.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\LabelMessages.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\LabelMessages.cs",
+              "RelativeToolTip": "TetrisAgain\\LabelMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:05.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rules.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Rules.Designer.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Rules.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Rules.Designer.cs",
+              "RelativeToolTip": "TetrisAgain\\Rules.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:05:35.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Rules.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Rules.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Rules.cs",
+              "RelativeToolTip": "TetrisAgain\\Rules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:04:38.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Menu.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Menu.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Menu.cs",
+              "RelativeToolTip": "TetrisAgain\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:24:18.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Program.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Program.cs",
+              "RelativeToolTip": "TetrisAgain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Winner.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Winner.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Winner.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Winner.cs",
+              "RelativeToolTip": "TetrisAgain\\Winner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:30:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Choice.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Choice.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Choice.cs",
+              "RelativeToolTip": "TetrisAgain\\Choice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:49:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Form1.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Form1.cs",
+              "RelativeToolTip": "TetrisAgain\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:39:20.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tetramino.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Tetramino.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\Tetramino.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\Tetramino.cs",
+              "RelativeToolTip": "TetrisAgain\\Tetramino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:26.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TetraminoColors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\TetraminoColors.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\TetraminoColors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\TetraminoColors.cs",
+              "RelativeToolTip": "TetrisAgain\\TetraminoColors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeOfFigure.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\ShapeOfFigure.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\ShapeOfFigure.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\ShapeOfFigure.cs",
+              "RelativeToolTip": "TetrisAgain\\ShapeOfFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:23.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\GameOver.cs",
+              "RelativeDocumentMoniker": "TetrisAgain\\GameOver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TetrisAgain\\TetrisAgain\\GameOver.cs",
+              "RelativeToolTip": "TetrisAgain\\GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:35:53.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
